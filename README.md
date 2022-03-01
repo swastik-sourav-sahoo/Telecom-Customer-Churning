@@ -1,6 +1,6 @@
 # Telecom Customer Churning
 ## Introduction
-This is a basic project on Machine Learning which allows us to predict the customer churning of a telecom companies. Churn is the measure of how many customers stop using a product. Telecom companies predict whether a customer will be stop using their services or not. 
+This is a basic project on Machine Learning which allows us to predict the customer churning of a telecom companies. Churn is the measure of how many customers stop using a product. Telecom companies predict whether a customer will stop using their services or not. 
 
 ## Problem statement
 Build a ML model to predict the customer churn for a telecom company.
